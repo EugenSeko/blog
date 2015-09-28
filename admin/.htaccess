@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile C:/Apache24/htdocs/my/geekbrains/admin/.htpasswd
+Require valid-user
